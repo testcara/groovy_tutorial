@@ -6,7 +6,8 @@ Groovy有以下特性：
 - 支持正则表达式
 - 支持列表
 - 支持多种标记语言，例如xml和html
-- 与Java语法非常接近
+- 与Java语法非常接近，支持所有Java语法
 - 可以使用现有的Java库
 - 扩展了Java.lang.Object
-Groovy的官方网站为http://www.groovy-lang.org/
+
+更多信息可通过groovy的（官方网站)[http://www.groovy-lang.org/]进行了解
