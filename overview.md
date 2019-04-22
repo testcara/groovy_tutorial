@@ -10,4 +10,4 @@ Groovy有以下特性：
 - 可以使用现有的Java库
 - 扩展了Java.lang.Object
 
-更多信息可通过groovy的（官方网站)[http://www.groovy-lang.org/]进行了解
+更多信息可通过groovy的[官方网站](http://www.groovy-lang.org/)进行了解
